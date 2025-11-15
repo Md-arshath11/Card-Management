@@ -24,11 +24,3 @@
 
 # Local Storage (DataStore)
 - Used Datastore to store add new card  
-
-
----
-
-## 📸 Screenshots
-
-> *(Add your real screenshots here once uploaded to GitHub)*
-
